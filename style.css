@@ -1,9 +1,12 @@
 body {
-	width: 30%;
 	margin: auto;
 	text-align: center;
 	background-color: #f7f7f7;
 	color: #686868;
+}
+
+.wrapper {
+        width: 50%;
 }
 
 img {
